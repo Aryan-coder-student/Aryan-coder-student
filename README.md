@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aryan-coder-student
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Proramming and Coding
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on (NOT DECIED)
 - 📫 How to reach me इल्लुमिनाति_शेतान#0743 (Discord)
 
 <!---
