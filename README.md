@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aryan-coder-student
+- 👋 Hi, I’m @Aryan Pahari
 - 👀 I’m interested in Proramming and Coding
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on (NOT DECIED)
