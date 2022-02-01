@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aryan Pahari high school student
-- 👀 I’m interested in Proramming and Coding
+- 👀 I’m interested in Programming and Coding
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on (NOT DECIED)
+- 💞️ I’m looking to collaborate on (NOT DECIEDED)
 - 📫 How to reach me इल्लुमिनाति_शेतान#0743 (Discord)
 
 <!---
