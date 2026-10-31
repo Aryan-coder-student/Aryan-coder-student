@@ -1,37 +1,21 @@
-# Aryan Pahari
+## Hi there 👋
 
-**Software Engineer Intern @ [Omnisavant.ai](https://omnisavant.ai) | Ex-AI Engineer Intern @ amasQIS.ai**
 
-I build backend systems and AI-powered products, with a focus on **platform engineering, agent infrastructure, browser automation, and system design**. I'm a final-year B.Tech student specializing in AI & ML at VIT Bhopal.
 
-[Portfolio](https://www.aryanpahari.in/) · [LinkedIn](https://www.linkedin.com/in/aryanpahari037/) · [Email](mailto:aryanpahari037@gmail.com)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pahariaryan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanpahari037) [![Kaggel](https://img.shields.io/badge/Kaggel-%230077R5.svg?logo=linkedin&logoColor=white)](https://www.kaggle.com/aryapahari) 
 
-### What I'm working on
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aryan-coder-student&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-coder-student&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-coder-student&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- **Omnisavant.ai — Software Engineer Intern:** Building and improving AI-assisted browser automation, Playwright workflows, verification and evaluation tooling, and backend/platform features.
-- **Next step:** Preparing to transition into a **Platform Engineer role with AI architecture responsibilities in January 2027**.
-- **Engineering interests:** Reliable AI agents, tool-calling harnesses, backend architecture, low-level/system design, and cloud-native infrastructure.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aryan-coder-student&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### Selected projects
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-| Project | What it does |
-| --- | --- |
-| [NeuroVision BHPC](https://github.com/Aryan-coder-student/NeuroVision-BHPC) | Multi-tenant medical imaging platform with brain MRI segmentation, 3D visualization, and AI-assisted analysis. |
-| [AI Job Email Sender](https://github.com/Aryan-coder-student/AI-Job-Email-Sender) | Pipeline for analyzing resumes and company data, matching opportunities, and generating contextual job application emails. |
-| [Badminton Analytics](https://github.com/Aryan-coder-student/Badminton-Analytics-Yolov8) | Computer vision workflows for badminton footage analysis, including shot and court-view processing. |
-
-### Tools & technologies
-
-**Backend:** Python · Django · FastAPI · REST APIs · PostgreSQL · Docker
-
-**AI / automation:** PyTorch · Playwright · LLM agents · Tool calling · Evaluation workflows · Computer vision
-
-**Frontend & infrastructure:** React · TypeScript · GitHub Actions · AWS/GCP architecture · Cloudflare
-
-### Outside work
-
-I practice backend and system design by studying real issues in established open-source projects and contributing fixes where I can.
-
----
-
-**Explore more:** [Portfolio](https://www.aryanpahari.in/) · [LinkedIn](https://www.linkedin.com/in/aryanpahari037/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
